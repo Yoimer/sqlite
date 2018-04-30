@@ -107,5 +107,5 @@
     </platform>
     <engine name="android" spec="~7.0.0" />
     <gap:plugin name="SQLitePlugin" value="io.liteglue.SQLitePlugin" />
-    <plugin name="cordova-sqlite-storage" spec="~2.3.1" />
+<!--     <plugin name="cordova-sqlite-storage" spec="~2.3.1" /> -->
 </widget>
